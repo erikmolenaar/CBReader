@@ -1,0 +1,2 @@
+# CBReader
+CBR/CBZ Viewer
